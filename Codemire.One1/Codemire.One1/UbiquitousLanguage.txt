@@ -1,0 +1,14 @@
+﻿
+
+
+Report [Direct Report] - Employee who reports to the Manager
+
+One on One - Meeting between the Manager and their Direct Report.
+
+Action - To Do item
+
+Delegate [External Resource?] - Person other than Manager and Report that an Action is assigned to
+
+Discussion Point - something to discuss identified before a One on One
+
+Agenda - ordered list of Discussion Points for Meeting
